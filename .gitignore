@@ -1,0 +1,10 @@
+.idea
+*.pyc
+scr*.png
+__pycache__
+mp/local_settings.py
+db.sqlite3
+/logs/
+geckodriver.log
+/data/
+
